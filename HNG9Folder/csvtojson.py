@@ -16,7 +16,7 @@ for row in csvreader:
     json_object = json.loads(row1)
     out = json.dumps(json_object, indent=2)
     #save json file
-    jsonoutput = open('./NFT'+str(count)+'.json','w')
+    jsonoutput = open('./nft'+'inFile'+'.json','w')
     jsonoutput.write(out)
     count +=1
 
