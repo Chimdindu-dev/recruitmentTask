@@ -16,6 +16,6 @@ calculate the .json files sha256 and appened to a new .csv file
 
 <h3>Output</h3>
 <ul>
-<li>you will have multiple .json files</li>
+<li>you will have multiple nftfilename.json files</li>
 <li>a filename.output.csv file</li>
 </ul>
