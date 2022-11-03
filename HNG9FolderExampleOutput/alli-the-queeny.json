@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "alli-the-queeny",
+    "description": "Alli is an LGBT Stan.",
+    "sensitive_content": false,
+    "series_number": 2,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "a57ecda4-a26f-4e97-a757-e1800af39aab",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

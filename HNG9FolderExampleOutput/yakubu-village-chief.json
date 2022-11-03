@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "yakubu-village-chief",
+    "description": "Yakubu is the village chieftain",
+    "sensitive_content": false,
+    "series_number": 123,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "5b0c0d26-d204-4264-b579-081ff9df935b",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

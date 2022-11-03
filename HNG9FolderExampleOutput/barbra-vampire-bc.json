@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "barbra-vampire-bc",
+    "description": "she loves drinking the blood of her victims",
+    "sensitive_content": false,
+    "series_number": 42,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "4f31fd99-4918-42a9-a112-fa60ef36d5c6",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

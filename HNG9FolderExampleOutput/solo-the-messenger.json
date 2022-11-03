@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "solo-the-messenger",
+    "description": "solo is a multitasker. you need anything done in your home, solo is your guy",
+    "sensitive_content": false,
+    "series_number": 174,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "44906ea0-901b-4b3d-802f-f73acc8758f6",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

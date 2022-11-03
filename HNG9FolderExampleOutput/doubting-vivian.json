@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "doubting-vivian",
+    "description": "Vivian just like the thomas in the bible, she doubts all.",
+    "sensitive_content": false,
+    "series_number": 414,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "a0282797-44ef-4bfb-a701-e4ed5e727d63",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

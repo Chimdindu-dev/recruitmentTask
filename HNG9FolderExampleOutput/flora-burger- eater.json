@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "flora-burger- eater",
+    "description": "she loves eating burgers",
+    "sensitive_content": false,
+    "series_number": 44,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "054dffd1-cdff-417b-b6c2-a679dabd087b",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

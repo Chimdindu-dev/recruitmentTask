@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "burna-morgan",
+    "description": "Morgan paints the town red with her red hair.",
+    "sensitive_content": false,
+    "series_number": 407,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "d08af477-de20-4780-8449-46b87840b9fa",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

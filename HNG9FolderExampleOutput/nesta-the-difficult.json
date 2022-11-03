@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "nesta-the-difficult",
+    "description": "Meet Nesta,the National Chairlady, Shege Administrators of Nigeria. (SAN)",
+    "sensitive_content": false,
+    "series_number": 371,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "fc3b7ca7-efdb-45b2-b7c9-e69107484a43",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

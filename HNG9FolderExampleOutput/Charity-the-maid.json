@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "Charity-the-maid",
+    "description": "A maid that works for the fun of it",
+    "sensitive_content": false,
+    "series_number": 205,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "bfb63096-59ca-11ed-9b6a-0242ac120002",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

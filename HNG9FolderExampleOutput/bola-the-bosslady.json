@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "bola-the-bosslady",
+    "description": "Bola commands boys and chill with men",
+    "sensitive_content": false,
+    "series_number": 352,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "09ff910d-a2be-49d5-8b27-b9378458701c",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

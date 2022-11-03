@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "emeka-the-chief",
+    "description": "Crowd are always at Emeka's house and people respect him",
+    "sensitive_content": false,
+    "series_number": 356,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "195e89c8-0b6f-43ad-9a2c-d20f03439e96",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

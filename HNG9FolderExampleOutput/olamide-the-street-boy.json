@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "olamide-the-street-boy",
+    "description": "Friendly street gang",
+    "sensitive_content": false,
+    "series_number": 132,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "d50a35b1-b42e-4e0c-8dd8-9b892b56d371",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

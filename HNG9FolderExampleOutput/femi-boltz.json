@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "femi-boltz",
+    "description": "A driver hustling his way through life",
+    "sensitive_content": false,
+    "series_number": 235,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "03e8d36d-5bdc-4da4-8f64-c1738eb9d1db",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

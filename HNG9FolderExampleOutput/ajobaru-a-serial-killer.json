@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "ajobaru-a-serial-killer",
+    "description": "High end assasin who cannot survive a day without sex",
+    "sensitive_content": false,
+    "series_number": 155,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "9d262f55-73d7-4b95-9a82-42356dbb085c",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

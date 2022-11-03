@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "sesan-the-smartie",
+    "description": "Sesan always comes first in competitions.",
+    "sensitive_content": false,
+    "series_number": 17,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "ba3edda7-8940-4ca4-97ba-826398d5909f",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

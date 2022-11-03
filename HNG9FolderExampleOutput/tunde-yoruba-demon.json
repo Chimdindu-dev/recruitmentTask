@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "tunde-yoruba-demon",
+    "description": "Tunde derives joy in breaking girls heart. It's a lifestyle.\"",
+    "sensitive_content": false,
+    "series_number": 19,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "53b46bd7-a537-402b-b249-0b4074a8faae",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

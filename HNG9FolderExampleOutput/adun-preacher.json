@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "adun-preacher",
+    "description": "a woman who preaches in buses",
+    "sensitive_content": false,
+    "series_number": 100,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "cc4dfedf-c343-48db-ad67-e39452ec2380",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

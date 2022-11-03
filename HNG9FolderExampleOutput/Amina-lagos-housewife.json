@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "Amina-lagos-housewife",
+    "description": "Amina is always showing the rich housewife vibes",
+    "sensitive_content": false,
+    "series_number": 262,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "5612f542-d85e-4a2c-8661-20553dfd07bf",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

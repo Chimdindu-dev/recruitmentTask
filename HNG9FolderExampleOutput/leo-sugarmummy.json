@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "leo-sugarmummy",
+    "description": "A middle age wild yankee returnee",
+    "sensitive_content": false,
+    "series_number": 225,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "7ec03993-f500-4a41-aa3c-a73df7a0fbed",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

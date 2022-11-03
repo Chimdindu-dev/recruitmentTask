@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "dolapo-the-afrocentric",
+    "description": "Dolapo loves african prints and loves to showcase culture",
+    "sensitive_content": false,
+    "series_number": 348,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "cbab232b-5c62-4df8-867b-018a2e496cd4",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "segun-baller",
+    "description": "a man who loves to party hard",
+    "sensitive_content": false,
+    "series_number": 81,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "58ac5cf6-b644-41c6-af79-ec9aa5f6bdd1",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

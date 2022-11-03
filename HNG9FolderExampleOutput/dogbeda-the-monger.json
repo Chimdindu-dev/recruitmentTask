@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "dogbeda-the-monger",
+    "description": "A fisherman who pracitically live in the river",
+    "sensitive_content": false,
+    "series_number": 158,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "66a09968-cb92-4378-a588-49947f68c537",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

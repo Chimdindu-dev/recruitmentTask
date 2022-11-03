@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "modinat-the-troublesome",
+    "description": "Modinat, The queen of Gbas Gbos.",
+    "sensitive_content": false,
+    "series_number": 368,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "49eb44e8-1117-463b-b7b3-1bcea4258362",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

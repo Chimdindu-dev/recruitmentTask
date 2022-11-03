@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "kiki-cala-flier",
+    "description": "she flies first class and gets the best deals",
+    "sensitive_content": false,
+    "series_number": 51,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "d24aefff-c9fc-4ea9-a7cf-1b741076c822",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

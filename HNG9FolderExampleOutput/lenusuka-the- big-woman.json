@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "lenusuka-the- big-woman",
+    "description": "The lady that loves spending money and buying everybody asaobi",
+    "sensitive_content": false,
+    "series_number": 142,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "e564a43a-ef77-487d-a88e-749d20a09fd8",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

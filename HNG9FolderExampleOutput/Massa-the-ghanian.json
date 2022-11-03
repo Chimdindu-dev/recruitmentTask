@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "Massa-the-ghanian",
+    "description": "A rich Ghanian trader.",
+    "sensitive_content": false,
+    "series_number": 290,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "9a9a5fbd-7a3c-469c-95f2-50303c2e9fc8",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

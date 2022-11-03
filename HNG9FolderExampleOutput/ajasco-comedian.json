@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "ajasco-comedian",
+    "description": "he thinks he's funny but he's not",
+    "sensitive_content": false,
+    "series_number": 84,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "8bebdb3a-f0a8-47ba-892f-39aa275fbd0d",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

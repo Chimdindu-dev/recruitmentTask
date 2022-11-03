@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "agnar-ole",
+    "description": "a man who feels like an outcast and always has a battle with his mind",
+    "sensitive_content": false,
+    "series_number": 79,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "f3f11fd0-59d2-11ed-9b6a-0242ac120002",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

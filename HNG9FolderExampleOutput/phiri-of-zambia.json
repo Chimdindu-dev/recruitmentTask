@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "phiri-of-zambia",
+    "description": "an african woman with strength and beauty",
+    "sensitive_content": false,
+    "series_number": 63,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "24b537fa-59d3-11ed-9b6a-0242ac120002",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

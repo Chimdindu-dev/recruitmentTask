@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "novice-joane",
+    "description": "A princess worried about finding true love",
+    "sensitive_content": false,
+    "series_number": 226,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "a5d49163-41b1-43fe-ad7f-0c78ef530b1a",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

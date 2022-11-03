@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "nene-caroline",
+    "description": "A housewife that loves taking care of her family",
+    "sensitive_content": false,
+    "series_number": 222,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "4ce5bcf3-d4ed-4277-8187-cb1797c1ac7e",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

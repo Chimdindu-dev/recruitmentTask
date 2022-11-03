@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "nandi-zulu",
+    "description": "A fierce African Queen",
+    "sensitive_content": false,
+    "series_number": 238,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "09702bc0-d10c-48d3-a1e9-2aaa4e9f3f39",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "chi-lastborn",
+    "description": "Baby of the house, the lastborn of an average Nigerian family",
+    "sensitive_content": false,
+    "series_number": 242,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "ede85964-5abd-11ed-9b6a-0242ac120002",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

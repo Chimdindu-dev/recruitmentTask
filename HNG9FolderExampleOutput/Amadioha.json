@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "Amadioha",
+    "description": "Amadioha is the Igbo high god of thunder.",
+    "sensitive_content": false,
+    "series_number": 382,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "a0586a93-7aff-43cc-8282-d081b8d6fe90",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "mansur-the-partyrider",
+    "description": "Mansur is the life of a party and never caught dulling.",
+    "sensitive_content": false,
+    "series_number": 341,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

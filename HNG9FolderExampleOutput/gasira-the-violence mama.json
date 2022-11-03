@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "gasira-the-violence mama",
+    "description": "Sister Gasira, wipes people Oraimo cord for a living.",
+    "sensitive_content": false,
+    "series_number": 378,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "ea72337f-658f-4198-9ad6-39bc6212c20d",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

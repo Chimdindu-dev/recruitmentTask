@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "kayode-the-baller",
+    "description": "Kayode loves life and lives it",
+    "sensitive_content": false,
+    "series_number": 119,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "fe17bfdc-c251-4654-8313-1ab793e11748",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

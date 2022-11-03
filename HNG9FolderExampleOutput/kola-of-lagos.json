@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "kola-of-lagos",
+    "description": "Kola is the life of the party everywhere he is",
+    "sensitive_content": false,
+    "series_number": 120,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "df295be1-1509-406e-a263-28a5dee0abca",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

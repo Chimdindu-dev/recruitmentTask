@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "bree-busy-gossip",
+    "description": "never wisper your secrets to her, except you want the world to know",
+    "sensitive_content": false,
+    "series_number": 59,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "4f5898d9-fc99-4053-a56c-b2ec1ef41347",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

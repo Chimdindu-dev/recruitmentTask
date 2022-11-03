@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "rofiat-the-marketer",
+    "description": "Rofiat, the distressed marketing intern.",
+    "sensitive_content": false,
+    "series_number": 366,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "1e4d9bda-f6f9-4e7a-9381-bee4b074b56d",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "chepkirui-mr-self-love",
+    "description": "Likes taking care of himself and spending on himself",
+    "sensitive_content": false,
+    "series_number": 147,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "1a91e778-d214-476b-a667-94e9ecb8b5ce",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

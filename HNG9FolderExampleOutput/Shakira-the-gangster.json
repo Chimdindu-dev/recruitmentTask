@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "Shakira-the-gangster",
+    "description": "Shakira is the most feared criminal.",
+    "sensitive_content": false,
+    "series_number": 276,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "dbdc1351-aa07-46e2-935f-2db071b1b23d",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

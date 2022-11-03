@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "salam-the-odogwu",
+    "description": "salam is a big time textile marketer always sourcing for quality materials",
+    "sensitive_content": false,
+    "series_number": 23,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "f2957ded-022c-4b07-92c6-b345d4816a67",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

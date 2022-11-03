@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "osas-the-ceo",
+    "description": "Meet Osas, a Gen-Z CEO with the British accent.",
+    "sensitive_content": false,
+    "series_number": 361,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "b10f7e42-4778-49db-820b-dabbad75504a",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

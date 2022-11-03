@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "bolanle-pepper-dem",
+    "description": "a money spender",
+    "sensitive_content": false,
+    "series_number": 82,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "46966104-775b-4443-90bb-b35afd121653",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

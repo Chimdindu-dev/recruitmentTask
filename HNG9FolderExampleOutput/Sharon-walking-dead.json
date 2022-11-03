@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "Sharon-walking-dead",
+    "description": "When tired Sharon walks like the dead",
+    "sensitive_content": false,
+    "series_number": 278,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "1fc37341-7dd1-480c-a01b-a63bee0a2230",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

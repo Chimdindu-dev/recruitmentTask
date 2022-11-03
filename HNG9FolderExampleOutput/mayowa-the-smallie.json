@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "mayowa-the-smallie",
+    "description": "Mayowa is so small but everyone loves him even still.",
+    "sensitive_content": false,
+    "series_number": 13,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "dfbb4163-df24-4d54-b74c-6218a68df8bd",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

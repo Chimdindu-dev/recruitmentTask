@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "lanre-the-dreaded-guy",
+    "description": "The wayward tout",
+    "sensitive_content": false,
+    "series_number": 131,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "66a054cd-5541-4000-98aa-8f2e9892d880",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "nnena-pretty-girl",
+    "description": "Nnena is beautiful girl that loves to talk about her beauty",
+    "sensitive_content": false,
+    "series_number": 113,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "d9477612-ad63-408e-8d12-24679c647b32",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

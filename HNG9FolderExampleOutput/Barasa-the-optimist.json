@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "Barasa-the-optimist",
+    "description": "looks up to the sky and makes a wish",
+    "sensitive_content": false,
+    "series_number": 325,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "2da4bef4-38cc-4414-99ad-7361fac04b2b",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

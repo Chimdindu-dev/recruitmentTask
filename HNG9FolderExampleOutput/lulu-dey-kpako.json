@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "lulu-dey-kpako",
+    "description": "she's as skinny as she is beautiful",
+    "sensitive_content": false,
+    "series_number": 50,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "23b6c38f-ab84-4565-bfe9-d9eb019c9f29",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format": "CHIP-0007",
+    "name": "ogogo-the-sugardaddy",
+    "description": "A rich oil magnate who loves to 'solve' young women's problems with his millions",
+    "sensitive_content": false,
+    "series_number": 346,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "aa575f30-04ad-45f9-a798-199465117793",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}
