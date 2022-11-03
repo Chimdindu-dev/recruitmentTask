@@ -59,7 +59,7 @@ jsonoutput.close()
 input_directory = Path.cwd()
 # glob = specific folder
 # rglob = including sub floders
-files = list(input_directory.rglob("*.json"))
+files = list(input_directory.glob("*.json"))
 list = list()
 
 for path in files:
