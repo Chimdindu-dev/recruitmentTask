@@ -25,8 +25,6 @@ for row in csvreader:
     id.append(row['UUID'])
     hash.append(row['Hash'])
 
-    #row1 = json.dumps(row)
-    #json_object = json.loads(row1) 
     json_object = {
                 'format' : 'CHIP-0007',
                 'name' : nftname[count],
@@ -54,7 +52,7 @@ for row in csvreader:
     jsonoutput.write(out)
     count +=1
 
-#os.remove('nft'+inFile+'0'+'.json')
+#os.remove(nftname[0]+'.json')
 jsonoutput.close()
 
 #hash calulator - calulating sha256 of each json file and out a csv file

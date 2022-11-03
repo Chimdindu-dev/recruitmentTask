@@ -11,11 +11,13 @@ calculates the <b>.json</b> files sha256 and appeneds to a new <b>.csv</b> file<
 <li>Download HNG9Folder/or Download project Zip</li>
 <li>Move your .csv file into the HNG9Folder</li>
 <li>Open your terminal and navigate to HNG9Folder on your system</li>
+<li>There is a <b>TeamRuler.csv</b> you can test your code with in the HNG9Folder</li>
 <li>In your terminal type: <b>python3 csvtojson.py</b></li>
 <li>You will be prompted to enter the csv filename</li>
 <ul>
+<li>There is a <b>TeamRuler.csv</b> you can test your code with in the HNG9Folder</li>
 <li>DO NOT ENTER THE .csv only enter file name</li>
-<li>You must change Filenames with spaces eg. NFT team 50 bevel.csv -> bevel.csv</li>
+<li>You must change Filenames with spaces eg. NFT team 50 Team Ruler.csv -> TeamRuler.csv</li>
 <li>Typing .csv at the end of your file will lead to the file not being discovered</li>
 </ul>
 <li>Code will now run if instructions are followed </li>
