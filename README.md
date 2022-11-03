@@ -1,8 +1,8 @@
 <h2>HNG9 Zuri task 1.5</h2>
 <p>Author: Chimdindu Chukwuka</p>
 
-simple python script to convert .csv file rows to .json
-calculate the .json files sha256 and appened to a new .csv file
+simple python script to convert a <b>.csv</b> file rows to multiple <b>.json</b> files
+calculates the <b>.json</b> files sha256 and appeneds to a new <b>.csv</b> file
 
 <h3>How to use</h3>
 <ol>
