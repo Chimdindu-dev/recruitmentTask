@@ -15,8 +15,11 @@ seriesno = []
 description = []
 gender = []
 id = []
+<<<<<<< HEAD:csvtojson.py
 anothername = []
 attributes = []
+=======
+>>>>>>> 9fb9c980fd463c7bb78d7978795e163227595104:HNG9Folder/csvtojson.py
 count = 0
 for row in csvreader:
     nftname.append(row['Filename'])
@@ -24,6 +27,7 @@ for row in csvreader:
     description.append(row['Description'])
     gender.append(row['Gender'])
     id.append(row['UUID'])
+<<<<<<< HEAD:csvtojson.py
     anothername.append(row['Name'])
     attributes.append(row['Attributes'])
 
@@ -31,6 +35,8 @@ for row in csvreader:
         up = int(seriesno[count])
     else:
         up = seriesno[count]
+=======
+>>>>>>> 9fb9c980fd463c7bb78d7978795e163227595104:HNG9Folder/csvtojson.py
 
     json_object = {
                 'format' : 'CHIP-0007',
@@ -51,6 +57,12 @@ for row in csvreader:
                 "type": "description",
                 "value": "NFT Collection for zuri internship"}]
                 },
+<<<<<<< HEAD:csvtojson.py
+=======
+                "data": {
+                    "example_data":""
+                    }
+>>>>>>> 9fb9c980fd463c7bb78d7978795e163227595104:HNG9Folder/csvtojson.py
     }  
     out = json.dumps(json_object, indent=4)
     jsonoutput = open(str(nftname[count])+'.json','w')
