@@ -15,7 +15,6 @@ seriesno = []
 description = []
 gender = []
 id = []
-hash = []
 count = 0
 for row in csvreader:
     nftname.append(row['Filename'])
@@ -23,7 +22,6 @@ for row in csvreader:
     description.append(row['Description'])
     gender.append(row['Gender'])
     id.append(row['UUID'])
-    hash.append(row['Hash'])
 
     json_object = {
                 'format' : 'CHIP-0007',
@@ -44,7 +42,7 @@ for row in csvreader:
                 "value": description[count]}]
                 },
                 "data": {
-                    "Hash": hash[count]
+                    "example_data":""
                     }
     }  
     out = json.dumps(json_object, indent=4)
