@@ -6,12 +6,13 @@ calculates the <b>.json</b> files sha256 and appeneds to a new <b>.csv</b> file
 
 <h3>How to use</h3>
 <ol>
-<li>install python3</li>
+<li>Install python3</li>
 <li>Download HNG9Folder</li>
-<li>move your .csv file into the HNG9Folder</li>
-<li>open your terminal and navigate to HNG9Folder on your system</li>
-<li>in your terminal type: python3 csvtojson.py</li>
-<li>you will be prompted to enter the csv filename [DO NOT ENTER THE .csv only enter file name]</li>
+<li>Move your .csv file into the HNG9Folder</li>
+<li>Open your terminal and navigate to HNG9Folder on your system</li>
+<li>In your terminal type: <b>python3 csvtojson.py</b></li>
+<li>You will be prompted to enter the csv filename [DO NOT ENTER THE .csv only enter file name]</li>
+<li>Code will now run if instructions are followed [typing .csv at the end of your file will lead to the file now being discorved]</li>
 </ol>
 
 <h3>Output</h3>
