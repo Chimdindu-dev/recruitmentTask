@@ -16,11 +16,11 @@ for row in csvreader:
     json_object = json.loads(row1)
     out = json.dumps(json_object, indent=2)
     #save json file
-    jsonoutput = open('./nft'+'inFile'+'.json','w')
+    jsonoutput = open('./nft'+inFile+str(count)+'.json','w')
     jsonoutput.write(out)
     count +=1
 
-os.remove('NFT0.json')
+os.remove('nft'+inFile+'0'+'.json')
 jsonoutput.close()
 
 #hash calulator - calulating sha256 of each json file and out a csv file
