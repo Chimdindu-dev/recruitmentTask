@@ -10,7 +10,7 @@ calculates the <b>.json</b> files sha256 and appeneds to a new <b>.csv</b> file<
 <h3>How to use</h3>
 <ol>
 <li>Install python3</li>
-<li>Download Download project Zip and unzip it</li>
+<li>Download project Zip and unzip it</li>
 <li>Move your .csv file into the Project folder</li>
 <li>Open your terminal and navigate to the Folder on your system</li>
 <li>There is a <b>HNGi9CSV.csv</b> you can test your code with in the Folder</li>
