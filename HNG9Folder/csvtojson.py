@@ -10,17 +10,51 @@ inFile = input('Enter a file name [do not include file type]: ')
 csvfile = open(inFile+'.csv','r')
 csvreader = csv.DictReader(csvfile)
 
+nftname = []
+seriesno = []
+description = []
+gender = []
+id = []
+hash = []
 count = 0
 for row in csvreader:
-    row1 = json.dumps(row)
-    json_object = json.loads(row1)
-    out = json.dumps(json_object, indent=2)
-    #save json file
-    jsonoutput = open('./nft'+inFile+str(count)+'.json','w')
+    nftname.append(row['Filename'])
+    seriesno.append(row['Series Number'])
+    description.append(row['Description'])
+    gender.append(row['Gender'])
+    id.append(row['UUID'])
+    hash.append(row['Hash'])
+
+    #row1 = json.dumps(row)
+    #json_object = json.loads(row1) 
+    json_object = {
+                'format' : 'CHIP-0007',
+                'name' : nftname[count],
+                'description' : description[count],
+                'sensitive_content' : False,
+                'series_number' : int(seriesno[count]),
+                'series_total' : 400,
+                'attributes' :[ {
+                    'trait_type' : 'Gender',
+                    'value' : gender[count]
+                }],
+                'collection' : {
+                    'name' : 'HNG9Zuri NFT Collection',
+                    'id' : id[count],
+                    "attributes": [{
+                "type": "description",
+                "value": description[count]}]
+                },
+                "data": {
+                    "Hash": hash[count]
+                    }
+    }  
+    out = json.dumps(json_object, indent=4)
+    jsonoutput = open(str(nftname[count])+'.json','w')
     jsonoutput.write(out)
     count +=1
 
-os.remove('nft'+inFile+'0'+'.json')
+#os.remove('nft'+inFile+'0'+'.json')
 jsonoutput.close()
 
 #hash calulator - calulating sha256 of each json file and out a csv file
