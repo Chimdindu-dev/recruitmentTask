@@ -1,0 +1,27 @@
+{
+    "format": "CHIP-0007",
+    "name": "danjuma-the-saddist",
+    "description": "Danjuma is a grumpy man no one likes to associate with him",
+    "sensitive_content": false,
+    "series_number": 349,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "5a42af57-186e-425b-b6b1-f72bda4911ef",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Danjuma is a grumpy man no one likes to associate with him"
+            }
+        ]
+    },
+    "data": {
+        "Hash": "7ac8af44d85e08e2c21cf90b3f203be6faabce160731504fa7bddd1be20265b0"
+    }
+}

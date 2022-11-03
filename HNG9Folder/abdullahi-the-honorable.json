@@ -1,0 +1,27 @@
+{
+    "format": "CHIP-0007",
+    "name": "abdullahi-the-honorable",
+    "description": "Popularly called \"buje budanu\" a godfather who lavishes money on young thugs",
+    "sensitive_content": false,
+    "series_number": 343,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "dd708276-445f-4483-8357-fc08e999328f",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Popularly called \"buje budanu\" a godfather who lavishes money on young thugs"
+            }
+        ]
+    },
+    "data": {
+        "Hash": "47f434d70a5faeba0a6c862ffd4b5f1318a91ce08b737f5c682676ca78c9ffac"
+    }
+}

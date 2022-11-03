@@ -1,0 +1,27 @@
+{
+    "format": "CHIP-0007",
+    "name": "ugochukwu-the-celeb",
+    "description": "Ugochukwu has many followers on social media",
+    "sensitive_content": false,
+    "series_number": 357,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "74775cda-cff4-4d21-8819-693127598eca",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Ugochukwu has many followers on social media"
+            }
+        ]
+    },
+    "data": {
+        "Hash": "0f348ac194ca6847e1b6ff60705acca8c72c1cb96eeeda022e7246519faae9b9"
+    }
+}
