@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "osas-the-ceo",
-    "description": "Meet Osas, a Gen-Z CEO with the British accent.",
+    "filename": "osas-the-ceo",
+    "name": "osas the ceo",
+    "description": "Meet Osas; a Gen-Z CEO with the British accent.",
     "sensitive_content": false,
     "series_number": 361,
     "series_total": 400,

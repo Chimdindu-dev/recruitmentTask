@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "segun-baller",
-    "description": "a man who loves to party hard",
+    "filename": "segun-baller",
+    "name": "segun baller",
+    "description": "A man who loves to have fun.",
     "sensitive_content": false,
     "series_number": 81,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

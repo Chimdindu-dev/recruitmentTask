@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "olu-the-oba",
-    "description": "The oba of Ofuk kingdom ",
+    "filename": "olu-the-oba",
+    "name": "olu the oba",
+    "description": "Olu the great ruler in our land.",
     "sensitive_content": false,
     "series_number": 128,
     "series_total": 400,

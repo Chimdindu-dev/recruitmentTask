@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "adebola-omo-oba",
-    "description": "Adebola loves soft life with her fathers wealth",
+    "filename": "adebola-omo-oba",
+    "name": "adebola omo oba",
+    "description": "Adebola loves soft life with her fathers wealth.",
     "sensitive_content": false,
     "series_number": 101,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

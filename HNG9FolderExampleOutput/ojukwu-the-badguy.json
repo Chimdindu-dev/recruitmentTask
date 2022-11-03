@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "ojukwu-the-badguy",
-    "description": "Ojukwu likes to oppress and cause trouble",
+    "filename": "ojukwu-the-badguy",
+    "name": "ojukwu the badguy",
+    "description": "Ojukwu is a business minded guy but fun to be with.",
     "sensitive_content": false,
     "series_number": 344,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

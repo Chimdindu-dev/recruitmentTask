@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "lola-babe",
+    "filename": "lola-babe",
+    "name": "lola babe",
     "description": "Looking hot as always",
     "sensitive_content": false,
     "series_number": 182,

@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "hammed-the-farmer",
-    "description": "Hammed owns a farm with his family",
+    "filename": "hammed-the-farmer",
+    "name": "hammed the farmer",
+    "description": "Hammed owns a farm with his family.",
     "sensitive_content": false,
     "series_number": 103,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

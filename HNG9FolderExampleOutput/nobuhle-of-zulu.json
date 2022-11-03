@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "nobuhle-of-zulu",
-    "description": "a woman well endowed with beauty",
+    "filename": "nobuhle-of-zulu",
+    "name": "nobuhle of zulu",
+    "description": "A woman; well endowed with beauty.",
     "sensitive_content": false,
     "series_number": 65,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

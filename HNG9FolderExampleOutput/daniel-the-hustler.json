@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "daniel-the-hustler",
+    "name": "daniel the hustler",
+    "description": "A boy that lives in the streets of Lagos hustling everyday to make ends meet.",
+    "sensitive_content": false,
+    "series_number": 207,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "355be0ea-e500-41e1-add4-ce868759bb72",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

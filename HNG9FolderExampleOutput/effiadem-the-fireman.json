@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "effiadem-the-fireman",
-    "description": "A retired military general who always loves shooting at sight",
+    "filename": "effiadem-the-fireman",
+    "name": "effiadem the fireman",
+    "description": "A retired military general who always loves shooting at sight.",
     "sensitive_content": false,
     "series_number": 156,
     "series_total": 400,

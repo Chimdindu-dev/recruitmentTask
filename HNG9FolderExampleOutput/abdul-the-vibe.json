@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "abdul-the-vibe",
-    "description": "abdul the life of the party and can never be caught unfresh",
+    "filename": "abdul-the-vibe",
+    "name": "abdul the vibe",
+    "description": "Abdul the life of the party and can never be caught un-fresh.",
     "sensitive_content": false,
     "series_number": 21,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

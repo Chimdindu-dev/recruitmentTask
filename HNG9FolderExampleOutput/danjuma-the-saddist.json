@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
+    "filename": "danjuma-the-saddist",
     "name": "danjuma-the-saddist",
-    "description": "Danjuma is a grumpy man no one likes to associate with him",
+    "description": "Danjuma is a grumpy man no one likes to associate with him.",
     "sensitive_content": false,
     "series_number": 349,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

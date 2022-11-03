@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "femi-tech-bro",
-    "description": "broke tech bro actually, no money",
+    "filename": "femi-tech-bro",
+    "name": "femi tech bro",
+    "description": "A rookie in the tech industry.",
     "sensitive_content": false,
     "series_number": 92,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

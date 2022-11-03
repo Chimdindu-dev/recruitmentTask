@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "ajobaru-a-creative-artist",
+    "name": "ajobaru a creative artist",
+    "description": "A lovely artist who is known for creating magical art pieces that can spark a smile.",
+    "sensitive_content": false,
+    "series_number": 155,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "9d262f55-73d7-4b95-9a82-42356dbb085c",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

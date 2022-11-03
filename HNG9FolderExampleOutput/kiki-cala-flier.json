@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "kiki-cala-flier",
-    "description": "she flies first class and gets the best deals",
+    "filename": "kiki-cala-flier",
+    "name": "kiki cala flier",
+    "description": "She flies first class and gets the best deals.",
     "sensitive_content": false,
     "series_number": 51,
     "series_total": 400,

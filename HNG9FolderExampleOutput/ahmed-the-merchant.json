@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "ahmed-the-merchant",
+    "name": "ahmed the merchant",
+    "description": "A rich merchant that sells in babylon.",
+    "sensitive_content": false,
+    "series_number": 201,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "9996ecb6-4d92-4b51-bc50-d962f68f1ecc",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

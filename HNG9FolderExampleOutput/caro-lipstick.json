@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "caro-lipstick",
+    "name": "caro lipstick",
+    "description": "A girl that puts on lipstick always, even to bed.",
+    "sensitive_content": false,
+    "series_number": 204,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "a34d7a7b-d8f6-46fb-9abc-6d6d7293fffb",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

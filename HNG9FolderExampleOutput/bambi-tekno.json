@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "bambi-tekno",
-    "description": "Bambi is the dancer of the team.",
+    "filename": "bambi-tekno",
+    "name": "bambi tekno",
+    "description": "Bambi is the dancer of the team; anytime she hears a beat shes on her feet.",
     "sensitive_content": false,
     "series_number": 416,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

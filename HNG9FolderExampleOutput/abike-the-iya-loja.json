@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "abike-the-iya-loja",
+    "name": "abike the iya loja",
+    "description": "Abike is a well known trader & the iya-loja of the largest market in Lagos.",
+    "sensitive_content": false,
+    "series_number": 397,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "7b210c03-5446-462d-980e-c73dbbc1e386",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

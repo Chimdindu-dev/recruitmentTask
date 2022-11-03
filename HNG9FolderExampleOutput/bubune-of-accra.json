@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "bubune-of-accra",
-    "description": "a man with honor, always conscious of his health",
+    "filename": "bubune-of-accra",
+    "name": "bubune of accra",
+    "description": "A man with honor; always conscious of his health.",
     "sensitive_content": false,
     "series_number": 74,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

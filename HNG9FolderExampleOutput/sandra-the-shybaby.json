@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "sandra-the-shybaby",
+    "name": "sandra the shybaby",
+    "description": "Sandra is too shy at parties",
+    "sensitive_content": false,
+    "series_number": 271,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "bfed40a8-74f7-4ada-ae18-975130247efa",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

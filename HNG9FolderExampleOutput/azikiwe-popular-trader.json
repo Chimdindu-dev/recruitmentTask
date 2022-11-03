@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "azikiwe-popular-trader",
-    "description": "Azikiwe is a popular trader",
+    "filename": "azikiwe-popular-trader",
+    "name": "azikiwe popular trader",
+    "description": "Azikiwe is a popular trader.",
     "sensitive_content": false,
     "series_number": 121,
     "series_total": 400,

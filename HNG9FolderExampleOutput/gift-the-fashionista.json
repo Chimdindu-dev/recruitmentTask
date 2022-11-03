@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "gift-the-fashionista",
+    "filename": "gift-the-fashionista",
+    "name": "gift the fashionista",
     "description": "Gift has always been bold and that spreads to her fashion sense too.",
     "sensitive_content": false,
     "series_number": 313,

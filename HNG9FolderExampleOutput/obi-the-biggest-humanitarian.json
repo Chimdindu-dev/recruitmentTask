@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "obi-the-biggest-humanitarian",
-    "description": "The biggest helper during the pandemic ",
+    "filename": "obi-the-biggest-humanitarian",
+    "name": "obi the biggest humanitarian",
+    "description": "Obi loves service to humanity.",
     "sensitive_content": false,
     "series_number": 135,
     "series_total": 400,

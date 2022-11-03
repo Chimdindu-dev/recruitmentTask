@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "adaora-the-choir mistress",
-    "description": "Adaora, our able choir mistress that will take your boyfriend for vanishing.",
+    "filename": "adaora-the-choir mistress",
+    "name": "adaora the choir mistress",
+    "description": "Adaora; our able choir mistress that will take your boyfriend for vanishing.",
     "sensitive_content": false,
     "series_number": 372,
     "series_total": 400,

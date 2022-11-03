@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "granpa-willy",
+    "name": "granpa willy",
+    "description": "A grandfather that drinks beer and reads newspaper all day.",
+    "sensitive_content": false,
+    "series_number": 209,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "facf7001-d028-4e00-bffc-ed1f7c005ecc",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

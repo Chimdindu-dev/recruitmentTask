@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "beauty-of-town",
+    "filename": "beauty-of-town",
+    "name": "beauty of town",
     "description": "She is the most beautiful in the neighbourhood",
     "sensitive_content": false,
     "series_number": 181,

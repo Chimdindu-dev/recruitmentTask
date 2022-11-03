@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "nana-the-tech lady",
-    "description": "Nana, the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
+    "filename": "nana-the-tech lady",
+    "name": "nana the tech lady",
+    "description": "Nana; the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
     "sensitive_content": false,
     "series_number": 365,
     "series_total": 400,

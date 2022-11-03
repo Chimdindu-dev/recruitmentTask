@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "muyiwa-the-stylish",
+    "filename": "muyiwa-the-stylish",
+    "name": "muyiwa the stylish",
     "description": "Muyiwa has a motto which is never to be caught unfresh.",
     "sensitive_content": false,
     "series_number": 14,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

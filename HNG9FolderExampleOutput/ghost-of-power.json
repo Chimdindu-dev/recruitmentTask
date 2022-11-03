@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "ghost-of-power",
-    "description": "a woman stronger than ten men combined",
+    "filename": "ghost-of-power",
+    "name": "ghost of power",
+    "description": "A woman; stronger than ten men combined.",
     "sensitive_content": false,
     "series_number": 69,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

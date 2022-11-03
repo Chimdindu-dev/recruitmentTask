@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "mandla-of-zulu",
-    "description": "a simple and an introvert who keeps to himself",
+    "filename": "mandla-of-zulu",
+    "name": "mandla of zulu",
+    "description": "A simple and introverted guy who keeps to himself.",
     "sensitive_content": false,
     "series_number": 67,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

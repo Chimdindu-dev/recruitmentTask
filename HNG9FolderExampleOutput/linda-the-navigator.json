@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "linda-the-navigator",
-    "description": "linda knows how to make a way for herself and people around her",
+    "filename": "linda-the-navigator",
+    "name": "linda the navigator",
+    "description": "Linda knows how to make a way for herself and the people around her.",
     "sensitive_content": false,
     "series_number": 36,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

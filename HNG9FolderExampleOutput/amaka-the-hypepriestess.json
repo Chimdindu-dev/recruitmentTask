@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "amaka-the-hypepriestess",
-    "description": "Amaka is a very hyper that she hypes in the clubs",
+    "filename": "amaka-the-hypepriestess",
+    "name": "amaka the hypepriestess",
+    "description": "Amaka is can never be intimidated no matter the circumstance. ",
     "sensitive_content": false,
     "series_number": 116,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

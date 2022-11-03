@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "jude-shadow-fighter",
-    "description": "a ninja warrior, the last samurai standing",
+    "filename": "jude-shadow-fighter",
+    "name": "jude shadow fighter",
+    "description": "A ninja warrior; the last samurai standing.",
     "sensitive_content": false,
     "series_number": 60,
     "series_total": 400,

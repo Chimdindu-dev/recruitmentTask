@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "ajasco-comedian",
-    "description": "he thinks he's funny but he's not",
+    "filename": "ajasco-comedian",
+    "name": "ajasco comedian",
+    "description": "A newbie comedian.",
     "sensitive_content": false,
     "series_number": 84,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

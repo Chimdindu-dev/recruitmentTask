@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "mansur-the-partyrider",
+    "filename": "mansur-the-partyrider",
+    "name": "mansur the partyrider",
     "description": "Mansur is the life of a party and never caught dulling.",
     "sensitive_content": false,
     "series_number": 341,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

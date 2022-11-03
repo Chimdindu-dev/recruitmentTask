@@ -10,7 +10,7 @@ import re
 inFile = input('Enter a file name [do not include file type]: ')
 csvfile = open(inFile+'.csv','r')
 csvreader = csv.DictReader(csvfile)
-new = ""
+
 nftname = []
 seriesno = []
 description = []

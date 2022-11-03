@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "temi-afro-girl",
-    "description": "temi is know for her funny haircut. this time, afro is up",
+    "filename": "temi-afro-girl",
+    "name": "temi afro girl",
+    "description": "Temi is know for her funny haircut and this time afro is up.",
     "sensitive_content": false,
     "series_number": 165,
     "series_total": 400,

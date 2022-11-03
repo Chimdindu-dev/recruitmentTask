@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "emeka-the-chief",
-    "description": "Crowd are always at Emeka's house and people respect him",
+    "filename": "emeka-the-chief",
+    "name": "emeka the chief",
+    "description": "Crowd are always at Emeka's house because of his selflessness.",
     "sensitive_content": false,
     "series_number": 356,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

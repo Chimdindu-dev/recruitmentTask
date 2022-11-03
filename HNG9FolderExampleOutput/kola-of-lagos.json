@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "kola-of-lagos",
-    "description": "Kola is the life of the party everywhere he is",
+    "filename": "kola-of-lagos",
+    "name": "kola of lagos",
+    "description": "Kola is the life of the party everywhere he is.",
     "sensitive_content": false,
     "series_number": 120,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

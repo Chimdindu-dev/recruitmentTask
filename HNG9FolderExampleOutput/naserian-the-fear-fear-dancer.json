@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "naserian-the-fear-fear-dancer",
+    "name": "naserian the fear fear dancer",
+    "description": "A timid and dancer who is always afraid of a large crowd of audience and yet his dance moves can raise the dead.",
+    "sensitive_content": false,
+    "series_number": 148,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "8177cf38-8284-4eb4-b19c-04473bcb3b5e",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

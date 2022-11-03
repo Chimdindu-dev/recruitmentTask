@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "omoyene-the-weirdo",
+    "filename": "omoyene-the-weirdo",
+    "name": "omoyene the weirdo",
     "description": "Omoyene likes to murmur to herself and talks about seeing ghosts",
     "sensitive_content": false,
     "series_number": 314,

@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "leo-sugarmummy",
-    "description": "A middle age wild yankee returnee",
+    "filename": "leo-sugarmummy",
+    "name": "leo sugarmummy",
+    "description": "A middle age wild yankee returnee.",
     "sensitive_content": false,
     "series_number": 225,
     "series_total": 400,

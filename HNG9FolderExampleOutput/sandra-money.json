@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "sandra-money",
-    "description": "sandra likes getting and spending money",
+    "filename": "sandra-money",
+    "name": "sandra money",
+    "description": "Sandra likes getting and spending money.",
     "sensitive_content": false,
     "series_number": 39,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

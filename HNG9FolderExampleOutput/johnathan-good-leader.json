@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "johnathan-good-leader",
-    "description": "A very progressive young man with positivity ",
+    "filename": "johnathan-good-leader",
+    "name": "johnathan good leader",
+    "description": "Johnathan is very progressive young man.",
     "sensitive_content": false,
     "series_number": 125,
     "series_total": 400,

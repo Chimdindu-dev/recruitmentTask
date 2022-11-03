@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "tobi-babyboy",
-    "description": "he's currently in his babyboy era",
+    "filename": "tobi-babyboy",
+    "name": "tobi babyboy",
+    "description": "A guy who does not like stress.",
     "sensitive_content": false,
     "series_number": 85,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

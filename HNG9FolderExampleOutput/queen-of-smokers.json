@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "queen-of-smokers",
+    "name": "queen of smokers",
+    "description": "A chronic smoker looking for a spouse that will join her to die of smoking.",
+    "sensitive_content": false,
+    "series_number": 214,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "eb32dfc0-29ee-49db-8833-37a41a6d6d65",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

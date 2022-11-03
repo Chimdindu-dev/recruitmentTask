@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "blind-tonia",
+    "name": "blind tonia",
+    "description": "A girl that lost one of her eyes in a street fight.",
+    "sensitive_content": false,
+    "series_number": 202,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "4a5f4c6d-d0dd-4b71-b095-86ef11910962",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

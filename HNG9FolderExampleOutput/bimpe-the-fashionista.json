@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "bimpe-the-fashionista",
-    "description": "bimpe loves wearing trendy clothes and looking gorgeous",
+    "filename": "bimpe-the-fashionista",
+    "name": "bimpe the fashionista",
+    "description": "Bimpe loves wearing trendy clothes and looking gorgeous.",
     "sensitive_content": false,
     "series_number": 40,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

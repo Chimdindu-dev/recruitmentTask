@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "aminat-the-snnobish",
+    "filename": "aminat-the-snnobish",
+    "name": "aminat the snnobish",
     "description": "Aminat never really wants to talk to anyone.",
     "sensitive_content": false,
     "series_number": 3,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

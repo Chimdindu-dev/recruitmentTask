@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "karim-rapper",
-    "description": "A young and proud Lagos rapper",
+    "filename": "karim-rapper",
+    "name": "karim rapper",
+    "description": "A young and proud Lagos rapper.",
     "sensitive_content": false,
     "series_number": 240,
     "series_total": 400,

@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "smirky-becky",
+    "filename": "smirky-becky",
+    "name": "smirky becky",
     "description": "Becky ends every statement she makes with a smirk.",
     "sensitive_content": false,
     "series_number": 401,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

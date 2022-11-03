@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "maathai-the-nobel-winner",
+    "filename": "maathai-the-nobel-winner",
+    "name": "maathai the nobel winner",
     "description": "mathaai the warrior",
     "sensitive_content": false,
     "series_number": 337,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

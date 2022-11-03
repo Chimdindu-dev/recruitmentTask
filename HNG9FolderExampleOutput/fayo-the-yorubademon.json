@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "fayo-the-yorubademon",
-    "description": "Fayo is a youruba demon that breaks hearts",
+    "filename": "fayo-the-yorubademon",
+    "name": "fayo the yorubademon",
+    "description": "Fayo is a yoruba demon with excellent communication skills.",
     "sensitive_content": false,
     "series_number": 110,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

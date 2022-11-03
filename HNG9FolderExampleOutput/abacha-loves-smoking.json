@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "abacha-loves-smoking",
-    "description": "Abacha loves taking pipe",
+    "filename": "abacha-loves-smoking",
+    "name": "abacha loves smoking",
+    "description": "Abacha loves taking cigarettes.",
     "sensitive_content": false,
     "series_number": 124,
     "series_total": 400,

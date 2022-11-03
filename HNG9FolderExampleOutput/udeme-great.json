@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "udeme-great",
-    "description": "an alcoholic",
+    "filename": "udeme-great",
+    "name": "udeme great",
+    "description": "A lady given to adventures.",
     "sensitive_content": false,
     "series_number": 91,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

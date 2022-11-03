@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "ella-serious-minded",
-    "description": "Ella a dedicated young lady ",
+    "filename": "ella-serious-minded",
+    "name": "ella serious minded",
+    "description": "Ella a dedicated young lady.",
     "sensitive_content": false,
     "series_number": 137,
     "series_total": 400,

@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "nnena-pretty-girl",
-    "description": "Nnena is beautiful girl that loves to talk about her beauty",
+    "filename": "nnena-pretty-girl",
+    "name": "nnena pretty girl",
+    "description": "Nnena is beautiful girl that loves to talk about her beauty.",
     "sensitive_content": false,
     "series_number": 113,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

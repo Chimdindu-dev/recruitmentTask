@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "wangari-the-waitress",
-    "description": "Wangari, the aspiring musician that doubles as a waitress.",
+    "filename": "wangari-the-waitress",
+    "name": "wangari the waitress",
+    "description": "Wangari; the aspiring musician that doubles as a waitress.",
     "sensitive_content": false,
     "series_number": 374,
     "series_total": 400,

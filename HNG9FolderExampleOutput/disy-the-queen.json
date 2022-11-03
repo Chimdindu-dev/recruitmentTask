@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "disy-the-queen",
+    "filename": "disy-the-queen",
+    "name": "disy the queen",
     "description": "The queen in her own space",
     "sensitive_content": false,
     "series_number": 191,

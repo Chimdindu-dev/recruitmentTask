@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "olamide-the-street-boy",
-    "description": "Friendly street gang",
+    "filename": "olamide-the-street-boy",
+    "name": "olamide the street boy",
+    "description": "Olamide has a sweet voice.",
     "sensitive_content": false,
     "series_number": 132,
     "series_total": 400,

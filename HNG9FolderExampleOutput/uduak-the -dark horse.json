@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "uduak-the -dark horse",
+    "filename": "uduak-the -dark horse",
+    "name": "uduak the dark horse",
     "description": "Uduak looks innocent and has the whole apartment bugged",
     "sensitive_content": false,
     "series_number": 302,

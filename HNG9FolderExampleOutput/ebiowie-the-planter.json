@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "ebiowie-the-planter",
+    "filename": "ebiowie-the-planter",
+    "name": "ebiowie the planter",
     "description": "Ebiowei has a reputation for nurturing plants.",
     "sensitive_content": false,
     "series_number": 9,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

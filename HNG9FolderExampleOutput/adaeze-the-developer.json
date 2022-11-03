@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "adaeze-the-developer",
+    "name": "adaeze the developer",
+    "description": "Adaeze is a gen-z software engineer whose favourite colour is purple.",
+    "sensitive_content": false,
+    "series_number": 392,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "22aaebe4-4659-44de-ab3d-c4dae11fe9f5",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

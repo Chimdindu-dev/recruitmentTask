@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "shola-cool-kid",
-    "description": "shola prefers to be alone because he hates stress",
+    "filename": "shola-cool-kid",
+    "name": "shola cool kid",
+    "description": "Shola prefers to be alone because he hates stress.",
     "sensitive_content": false,
     "series_number": 28,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

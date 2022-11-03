@@ -1,19 +1,20 @@
 {
     "format": "CHIP-0007",
-    "name": "kareem-kasanova",
-    "description": "Abuja big boy who knows he can get any lady he wants",
+    "filename": "kareem-kasanova",
+    "name": "kareem kasanova",
+    "description": "Abuja big boy who knows he can get any lady he wants.",
     "sensitive_content": false,
     "series_number": 252,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {
         "name": "HNG9Zuri NFT Collection",
-        "id": "ede8820e-5abd-11ed-9b6a-0242ac120002",
+        "id": "9b765dd9-5d2f-4050-9583-4200e4b2d5d4",
         "attributes": [
             {
                 "type": "description",

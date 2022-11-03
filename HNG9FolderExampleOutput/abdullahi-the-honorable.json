@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "abdullahi-the-honorable",
-    "description": "Popularly called \"buje budanu\" a godfather who lavishes money on young thugs",
+    "filename": "abdullahi-the-honorable",
+    "name": "abdullahi the honorable",
+    "description": "Popularly called \"buje budanu\" a godfather who lavishes money on young gees.",
     "sensitive_content": false,
     "series_number": 343,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

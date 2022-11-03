@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "kim-rich-aunty",
-    "description": "she loves spoiling her nieces and nephew",
+    "filename": "kim-rich-aunty",
+    "name": "kim rich aunty",
+    "description": "She loves spoiling her nieces and nephew.",
     "sensitive_content": false,
     "series_number": 41,
     "series_total": 400,

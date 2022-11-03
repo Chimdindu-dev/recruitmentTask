@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "Ifeanyi-the-dj",
-    "description": "Ifeanyi is a music dj that performs at events",
+    "filename": "Ifeanyi-the-dj",
+    "name": "Ifeanyi the dj",
+    "description": "Ifeanyi is a music dj that performs at events.",
     "sensitive_content": false,
     "series_number": 109,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

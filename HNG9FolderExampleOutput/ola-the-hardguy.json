@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "ola-the-hardguy",
-    "description": "Ola is feared by many and he leveraged on that",
+    "filename": "ola-the-hardguy",
+    "name": "ola the hardguy",
+    "description": "Ola may be feared but he is such a coolheaded champ.",
     "sensitive_content": false,
     "series_number": 355,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "temitope-the-spoilt girl",
-    "description": "Temitope, our favourite Daddy's girl.",
+    "filename": "temitope-the-spoilt girl",
+    "name": "temitope the spoilt girl",
+    "description": "Temitope; our favourite daddy's girl.",
     "sensitive_content": false,
     "series_number": 363,
     "series_total": 400,

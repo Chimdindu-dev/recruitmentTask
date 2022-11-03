@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "stephen-bluecap",
+    "name": "stephen bluecap",
+    "description": "Stephen always wears blue cap even to the church.",
+    "sensitive_content": false,
+    "series_number": 217,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "9b9de982-0f87-47ee-ae95-0b69b48d0cdf",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

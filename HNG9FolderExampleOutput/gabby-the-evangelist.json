@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "gabby-the-evangelist",
-    "description": "evangelist Gabby, blending gospel with comedy. he's going places",
+    "filename": "gabby-the-evangelist",
+    "name": "gabby the evangelist",
+    "description": "Evangelist Gabby is blending gospel with comedy.",
     "sensitive_content": false,
     "series_number": 180,
     "series_total": 400,

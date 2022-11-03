@@ -1,19 +1,20 @@
 {
     "format": "CHIP-0007",
-    "name": "mayor-of-uyo",
-    "description": "Essien is a top Lagos businessman who hails from Uyo",
+    "filename": "mayor-of-uyo",
+    "name": "mayor of uyo",
+    "description": "Essien is a top Lagos businessman who hails from Uyo.",
     "sensitive_content": false,
     "series_number": 253,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {
         "name": "HNG9Zuri NFT Collection",
-        "id": "ede883c6-5abd-11ed-9b6a-0242ac120002",
+        "id": "6ae4ca87-8d71-48e5-8098-fc5241a0ba36",
         "attributes": [
             {
                 "type": "description",

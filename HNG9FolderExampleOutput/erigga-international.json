@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "erigga-international",
-    "description": "Super star from south-south",
+    "filename": "erigga-international",
+    "name": "erigga international",
+    "description": "Superstar from South-South.",
     "sensitive_content": false,
     "series_number": 96,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

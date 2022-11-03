@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "karashika-queen",
+    "name": "karashika queen",
+    "description": "A woman of the underworld that influences rich men into giving up their money.",
+    "sensitive_content": false,
+    "series_number": 211,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "6e697e86-def8-4fb4-96c9-0f43ab9beea6",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

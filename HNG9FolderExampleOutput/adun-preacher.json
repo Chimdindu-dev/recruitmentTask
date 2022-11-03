@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "adun-preacher",
-    "description": "a woman who preaches in buses",
+    "filename": "adun-preacher",
+    "name": "adun preacher",
+    "description": "A religious woman.",
     "sensitive_content": false,
     "series_number": 100,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

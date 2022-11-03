@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "ankara-scarlett",
+    "filename": "ankara-scarlett",
+    "name": "ankara scarlett",
     "description": "Scarlett is a tailor at yaba market and she loves what she does.",
     "sensitive_content": false,
     "series_number": 402,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

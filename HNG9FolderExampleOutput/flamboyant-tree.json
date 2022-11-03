@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "flamboyant-tree",
-    "description": "beautiful african woman",
+    "filename": "flamboyant-tree",
+    "name": "flamboyant tree",
+    "description": "A beautiful african woman; billionaire in the making.",
     "sensitive_content": false,
     "series_number": 71,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

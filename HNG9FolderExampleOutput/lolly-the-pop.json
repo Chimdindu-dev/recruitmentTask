@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "lolly-the-pop",
+    "filename": "lolly-the-pop",
+    "name": "lolly the pop",
     "description": "Seeing lolly makes me pop",
     "sensitive_content": false,
     "series_number": 190,

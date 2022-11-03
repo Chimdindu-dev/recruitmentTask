@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "wendy-the -banker",
+    "filename": "wendy-the -banker",
+    "name": "wendy the  banker",
     "description": "Wendy loves working in the bank, as she gets to meet different people.",
     "sensitive_content": false,
     "series_number": 301,

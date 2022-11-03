@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "jonny-the-bravo",
-    "description": "jonny is our local police. he breaks boys free",
+    "filename": "jonny-the-bravo",
+    "name": "jonny the bravo",
+    "description": "Jonny is friendly to all and everybody sees him as kind agile Jonny.",
     "sensitive_content": false,
     "series_number": 166,
     "series_total": 400,

@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "agba-tech",
-    "description": "A tech bro that loves to party but has bad communication skill",
+    "filename": "agba-tech",
+    "name": "agba tech",
+    "description": "A tech bro that loves to party but has bad communication skill.",
     "sensitive_content": false,
     "series_number": 236,
     "series_total": 400,

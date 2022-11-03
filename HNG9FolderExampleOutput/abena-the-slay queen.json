@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "abena-the-slay queen",
-    "description": "Abena, the gang's slay queen",
+    "filename": "abena-the-slay queen",
+    "name": "abena the slay queen",
+    "description": "Abena; the gang's slay queen.",
     "sensitive_content": false,
     "series_number": 377,
     "series_total": 400,

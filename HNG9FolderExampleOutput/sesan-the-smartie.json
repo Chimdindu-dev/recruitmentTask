@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "sesan-the-smartie",
+    "filename": "sesan-the-smartie",
+    "name": "sesan the smartie",
     "description": "Sesan always comes first in competitions.",
     "sensitive_content": false,
     "series_number": 17,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "grandma-nanny",
+    "name": "grandma nanny",
+    "description": "A grandmother that does nothing but sleeps all day.",
+    "sensitive_content": false,
+    "series_number": 208,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "ec8fe198-5c45-42a6-a909-4cfbcbbf6519",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

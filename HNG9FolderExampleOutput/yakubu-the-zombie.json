@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "yakubu-the-zombie",
+    "filename": "yakubu-the-zombie",
+    "name": "yakubu the zombie",
     "description": "Yakubu earned his zombie title because na only dust full him head.",
     "sensitive_content": false,
     "series_number": 20,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

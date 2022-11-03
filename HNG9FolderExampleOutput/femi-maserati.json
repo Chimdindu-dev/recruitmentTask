@@ -1,19 +1,20 @@
 {
     "format": "CHIP-0007",
-    "name": "femi-maserati",
-    "description": "Rich kid who resides in lekki, known by everybody because he drives a Maserati",
+    "filename": "femi-maserati",
+    "name": "femi maserati",
+    "description": "Rich kid who resides in Lekki, known by everybody because he drives a Maserati.",
     "sensitive_content": false,
     "series_number": 260,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {
         "name": "HNG9Zuri NFT Collection",
-        "id": "ede89802-5abd-11ed-9b6a-0242ac120002",
+        "id": "dc5bb7ae-6280-4038-a0cc-6f7ba98bc5cf",
         "attributes": [
             {
                 "type": "description",

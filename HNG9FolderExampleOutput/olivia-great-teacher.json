@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "olivia-great-teacher",
+    "name": "olivia great teacher",
+    "description": "Students enjoys Olivia's classes",
+    "sensitive_content": false,
+    "series_number": 279,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "cfc4419e-bd46-40f6-9654-632ac1138ff1",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

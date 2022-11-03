@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "burna-morgan",
+    "filename": "burna-morgan",
+    "name": "burna morgan",
     "description": "Morgan paints the town red with her red hair.",
     "sensitive_content": false,
     "series_number": 407,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

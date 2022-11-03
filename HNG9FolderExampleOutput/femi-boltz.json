@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "femi-boltz",
-    "description": "A driver hustling his way through life",
+    "filename": "femi-boltz",
+    "name": "femi boltz",
+    "description": "A driver hustling his way through life.",
     "sensitive_content": false,
     "series_number": 235,
     "series_total": 400,

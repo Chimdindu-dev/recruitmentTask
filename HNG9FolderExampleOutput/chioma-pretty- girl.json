@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "chioma-pretty- girl",
+    "filename": "chioma-pretty- girl",
+    "name": "chioma pretty girl",
     "description": "Chioma's face card is a 100.",
     "sensitive_content": false,
     "series_number": 7,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

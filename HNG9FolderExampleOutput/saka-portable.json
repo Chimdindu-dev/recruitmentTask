@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "saka-portable",
+    "filename": "saka-portable",
+    "name": "saka portable",
     "description": "Saka is forever convinced that his toothless smile is the icing on his cake.",
     "sensitive_content": false,
     "series_number": 417,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

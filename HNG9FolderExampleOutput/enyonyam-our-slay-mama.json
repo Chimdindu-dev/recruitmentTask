@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "enyonyam-our-slay-mama",
-    "description": "Posts new pictures everyday and can snub for africa",
+    "filename": "enyonyam-our-slay-mama",
+    "name": "enyonyam our slay mama",
+    "description": "Posts new pictures everyday and can snub for africa.",
     "sensitive_content": false,
     "series_number": 159,
     "series_total": 400,

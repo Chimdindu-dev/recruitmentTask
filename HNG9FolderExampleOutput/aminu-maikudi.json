@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "aminu-maikudi",
-    "description": "aminu is a wealthy man from a family with generational wealth. His exquisite taste shows it",
+    "filename": "aminu-maikudi",
+    "name": "aminu maikudi",
+    "description": "Aminu is a wealthy man from a family with generational wealth. ",
     "sensitive_content": false,
     "series_number": 33,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

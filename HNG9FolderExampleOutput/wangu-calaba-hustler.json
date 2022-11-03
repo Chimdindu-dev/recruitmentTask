@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "wangu-calaba-hustler",
-    "description": "she's a mean hustler so be careful",
+    "filename": "wangu-calaba-hustler",
+    "name": "wangu calaba hustler",
+    "description": "She is a passionate hustler you should be careful with her.",
     "sensitive_content": false,
     "series_number": 49,
     "series_total": 400,

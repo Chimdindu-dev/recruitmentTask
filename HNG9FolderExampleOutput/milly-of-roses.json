@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "milly-of-roses",
+    "filename": "milly-of-roses",
+    "name": "milly of roses",
     "description": "Her lips so red like a rose",
     "sensitive_content": false,
     "series_number": 185,

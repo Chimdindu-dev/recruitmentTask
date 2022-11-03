@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "nell-light -embrace",
-    "description": "she is an empath; ready with a kind word or hug",
+    "filename": "nell-light -embrace",
+    "name": "nell light embrace",
+    "description": "She is an empathy ready with a kind word or hug.",
     "sensitive_content": false,
     "series_number": 56,
     "series_total": 400,

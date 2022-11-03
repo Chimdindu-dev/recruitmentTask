@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "nene-caroline",
-    "description": "A housewife that loves taking care of her family",
+    "filename": "nene-caroline",
+    "name": "nene caroline",
+    "description": "A housewife that loves taking care of her family.",
     "sensitive_content": false,
     "series_number": 222,
     "series_total": 400,

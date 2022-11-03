@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "friday-the-bigsboy",
-    "description": "friday always live up to his name. every friday is for the party.",
+    "filename": "friday-the-bigsboy",
+    "name": "friday the bigsboy",
+    "description": "Friday always live up to his name. Every Friday is for the party.",
     "sensitive_content": false,
     "series_number": 176,
     "series_total": 400,

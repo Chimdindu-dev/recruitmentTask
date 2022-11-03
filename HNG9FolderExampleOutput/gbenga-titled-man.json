@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "gbenga-titled-man",
+    "name": "gbenga titled man",
+    "description": "A yoruba chief who is also a car dealer",
+    "sensitive_content": false,
+    "series_number": 292,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "dc6c1a39-ec78-44ca-8296-68c6de7b5de4",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

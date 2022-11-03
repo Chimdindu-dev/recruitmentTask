@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "muna-the -block sister",
+    "filename": "muna-the -block sister",
+    "name": "muna the block sister",
     "description": "Muna loves to tell everyone in the block about her younger escapades",
     "sensitive_content": false,
     "series_number": 306,

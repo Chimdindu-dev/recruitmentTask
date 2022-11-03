@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "emeka-the -clown",
-    "description": "emeka the funny man, always making silly jokes",
+    "filename": "emeka-the -clown",
+    "name": "emeka the clown",
+    "description": "Emeka the funny man; always making silly joke.",
     "sensitive_content": false,
     "series_number": 22,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

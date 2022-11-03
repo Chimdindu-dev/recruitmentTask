@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "melanin-janet",
-    "description": "A young lady with a soft personality",
+    "filename": "melanin-janet",
+    "name": "melanin janet",
+    "description": "A young lady with a soft personality.",
     "sensitive_content": false,
     "series_number": 224,
     "series_total": 400,

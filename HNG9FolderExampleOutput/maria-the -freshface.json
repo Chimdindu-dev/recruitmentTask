@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "maria-the -freshface",
+    "filename": "maria-the -freshface",
+    "name": "maria the freshface",
     "description": "Maria likes to believe the world is sunshine and rainbows while blowing gum",
     "sensitive_content": false,
     "series_number": 315,

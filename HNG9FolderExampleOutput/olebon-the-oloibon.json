@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "olebon-the-oloibon",
+    "name": "olebon the oloibon",
+    "description": "olebon in customized buba sokoto",
+    "sensitive_content": false,
+    "series_number": 330,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "de261efe-731d-461e-b2e4-42edd2f48f72",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

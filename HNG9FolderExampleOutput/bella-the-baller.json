@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "bella-the-baller",
+    "filename": "bella-the-baller",
+    "name": "bella the baller",
     "description": "Baller for Life",
     "sensitive_content": false,
     "series_number": 184,

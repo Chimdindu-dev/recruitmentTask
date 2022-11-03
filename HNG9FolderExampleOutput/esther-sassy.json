@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "esther-sassy",
-    "description": "her motto is everybody must collect",
+    "filename": "esther-sassy",
+    "name": "esther sassy",
+    "description": "A rude lady.",
     "sensitive_content": false,
     "series_number": 86,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

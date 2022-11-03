@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "joshua-gang-leader",
+    "name": "joshua gang leader",
+    "description": "A boy born to ritualist parents and now runs his own gang.",
+    "sensitive_content": false,
+    "series_number": 210,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "cc3c5c06-df96-4a0d-a09f-3359c21191f6",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

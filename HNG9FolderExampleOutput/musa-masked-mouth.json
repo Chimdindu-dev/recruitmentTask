@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "musa-masked-mouth",
+    "name": "musa masked mouth",
+    "description": "Musa uses a tape to cover his mouth to prevent him from talking too much.",
+    "sensitive_content": false,
+    "series_number": 213,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "9a5e7e95-6552-4a92-ab18-2154678943c2",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

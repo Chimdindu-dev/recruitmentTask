@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "sleevless-maid",
+    "name": "sleevless maid",
+    "description": "A girl that nevers wears long cloths and gets herself thrown out of churches for indecent dressing.",
+    "sensitive_content": false,
+    "series_number": 216,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "1cec0f65-2ee4-41a9-a30a-1f7aa9ccd112",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

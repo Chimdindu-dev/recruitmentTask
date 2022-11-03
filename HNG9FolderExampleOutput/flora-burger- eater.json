@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "flora-burger- eater",
-    "description": "she loves eating burgers",
+    "filename": "flora-burger- eater",
+    "name": "flora burger eater",
+    "description": "She loves eating burgers.",
     "sensitive_content": false,
     "series_number": 44,
     "series_total": 400,

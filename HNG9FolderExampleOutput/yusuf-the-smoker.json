@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "yusuf-the-smoker",
+    "name": "yusuf the smoker",
+    "description": "A chronic smoker with damaged lungs.",
+    "sensitive_content": false,
+    "series_number": 220,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "2af7b970-e212-4627-b818-13c00c8d3a72",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

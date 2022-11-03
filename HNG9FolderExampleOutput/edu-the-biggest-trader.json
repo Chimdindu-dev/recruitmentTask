@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "edu-the-biggest-trader",
-    "description": "The biggest merchant in west coast ",
+    "filename": "edu-the-biggest-trader",
+    "name": "edu the biggest trader",
+    "description": "Edu is the biggest merchant in west coast.",
     "sensitive_content": false,
     "series_number": 129,
     "series_total": 400,

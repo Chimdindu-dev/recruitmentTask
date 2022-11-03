@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "afro-star",
+    "filename": "afro-star",
+    "name": "afro star",
     "description": "Bimbo is an afro star with great affluence.",
     "sensitive_content": false,
     "series_number": 408,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "female"
+            "value": "Female"
         }
     ],
     "collection": {

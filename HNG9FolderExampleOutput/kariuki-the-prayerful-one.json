@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "kariuki-the-prayerful-one",
+    "name": "kariuki the prayerful one",
+    "description": "kariuki closes his eyes",
+    "sensitive_content": false,
+    "series_number": 334,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "6a5b6fa6-0f91-4b01-957f-c766945eb704",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

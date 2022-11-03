@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "filename": "buffy-the-vampire",
+    "name": "buffy the vampire",
+    "description": "A vampire diary protagonist that got bitten by a vampire in real life.",
+    "sensitive_content": false,
+    "series_number": 203,
+    "series_total": 400,
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ],
+    "collection": {
+        "name": "HNG9Zuri NFT Collection",
+        "id": "bd329fd7-dd90-4180-a7a7-03e2d41535cb",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "NFT Collection for zuri internship"
+            }
+        ]
+    }
+}

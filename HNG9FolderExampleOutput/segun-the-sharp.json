@@ -1,14 +1,15 @@
 {
     "format": "CHIP-0007",
-    "name": "segun-the-sharp",
-    "description": "Segun drives with caution and people love him for that",
+    "filename": "segun-the-sharp",
+    "name": "segun the sharp",
+    "description": "Segun drives with caution and people love him for that.",
     "sensitive_content": false,
     "series_number": 354,
     "series_total": 400,
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

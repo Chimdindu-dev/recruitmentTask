@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "akwaaba-ghana",
-    "description": "A depressed gothic introvert",
+    "filename": "akwaaba-ghana",
+    "name": "akwaaba ghana",
+    "description": "A depressed gothic introvert.",
     "sensitive_content": false,
     "series_number": 228,
     "series_total": 400,

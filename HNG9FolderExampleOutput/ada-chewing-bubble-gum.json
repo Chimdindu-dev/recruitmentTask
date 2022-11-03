@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "ada-chewing-bubble-gum",
-    "description": "Ada always chewing gum",
+    "filename": "ada-chewing-bubble-gum",
+    "name": "ada chewing bubble gum",
+    "description": "Ada always chewing gum.",
     "sensitive_content": false,
     "series_number": 140,
     "series_total": 400,

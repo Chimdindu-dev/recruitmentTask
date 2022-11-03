@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "cynthia-cute-eyes",
-    "description": "Cynthia with a priceless cute eyes",
+    "filename": "cynthia-cute-eyes",
+    "name": "cynthia cute eyes",
+    "description": "Cynthia with priceless cute eyes.",
     "sensitive_content": false,
     "series_number": 138,
     "series_total": 400,

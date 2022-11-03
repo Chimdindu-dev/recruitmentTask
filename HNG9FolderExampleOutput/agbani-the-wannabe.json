@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "agbani-the-wannabe",
-    "description": "Agbani loves to shop antique ndecorations for her mansion in idi-iroko",
+    "filename": "agbani-the-wannabe",
+    "name": "agbani the wannabe",
+    "description": "Agbani loves to shop antique decorations for her mansion in idi-iroko",
     "sensitive_content": false,
     "series_number": 308,
     "series_total": 400,

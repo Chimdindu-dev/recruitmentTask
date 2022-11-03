@@ -1,6 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "alli-the-queeny",
+    "filename": "alli-the-queeny",
+    "name": "alli the queeny",
     "description": "Alli is an LGBT Stan.",
     "sensitive_content": false,
     "series_number": 2,
@@ -8,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Gender",
-            "value": "male"
+            "value": "Male"
         }
     ],
     "collection": {

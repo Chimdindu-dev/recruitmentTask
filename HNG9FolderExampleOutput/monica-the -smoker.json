@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "monica-the -smoker",
-    "description": "Monica is never found without a pipe and loves to interject in every conversation",
+    "filename": "monica-the -smoker",
+    "name": "monica the smoker",
+    "description": "Monica is never found without a pipe and loves to interject in every conversation.",
     "sensitive_content": false,
     "series_number": 316,
     "series_total": 400,

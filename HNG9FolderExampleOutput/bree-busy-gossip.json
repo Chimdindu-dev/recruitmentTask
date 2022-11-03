@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "bree-busy-gossip",
-    "description": "never wisper your secrets to her, except you want the world to know",
+    "filename": "bree-busy-gossip",
+    "name": "bree busy gossip",
+    "description": "Never whisper your secrets to her except you want the world to know.",
     "sensitive_content": false,
     "series_number": 59,
     "series_total": 400,

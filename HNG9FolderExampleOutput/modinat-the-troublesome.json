@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "modinat-the-troublesome",
-    "description": "Modinat, The queen of Gbas Gbos.",
+    "filename": "modinat-the-troublesome",
+    "name": "modinat the troublesome",
+    "description": "Modinat; The queen of gbas gbos.",
     "sensitive_content": false,
     "series_number": 368,
     "series_total": 400,

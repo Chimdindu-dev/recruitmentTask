@@ -1,7 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "dave-the-tech-bro",
-    "description": "Dave the web3 geng",
+    "filename": "dave-the-tech-bro",
+    "name": "dave the tech bro",
+    "description": "Dave is a web3 enthusiast.",
     "sensitive_content": false,
     "series_number": 134,
     "series_total": 400,
