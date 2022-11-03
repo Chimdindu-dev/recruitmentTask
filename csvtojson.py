@@ -3,23 +3,21 @@ import json
 import hashlib
 from pathlib import Path
 import os
+import re
 
 #creating json files from csv file provided in argument
 #open the csv file
 inFile = input('Enter a file name [do not include file type]: ')
 csvfile = open(inFile+'.csv','r')
 csvreader = csv.DictReader(csvfile)
-
+new = ""
 nftname = []
 seriesno = []
 description = []
 gender = []
 id = []
-<<<<<<< HEAD:csvtojson.py
 anothername = []
 attributes = []
-=======
->>>>>>> 9fb9c980fd463c7bb78d7978795e163227595104:HNG9Folder/csvtojson.py
 count = 0
 for row in csvreader:
     nftname.append(row['Filename'])
@@ -27,29 +25,21 @@ for row in csvreader:
     description.append(row['Description'])
     gender.append(row['Gender'])
     id.append(row['UUID'])
-<<<<<<< HEAD:csvtojson.py
     anothername.append(row['Name'])
     attributes.append(row['Attributes'])
 
-    if seriesno[count].isnumeric() == True:
-        up = int(seriesno[count])
-    else:
-        up = seriesno[count]
-=======
->>>>>>> 9fb9c980fd463c7bb78d7978795e163227595104:HNG9Folder/csvtojson.py
-
     json_object = {
                 'format' : 'CHIP-0007',
-                'name' : nftname[count],
+                'filename' : nftname[count],
+                'name':anothername[count],
                 'description' : description[count],
                 'sensitive_content' : False,
-                'series_number' : up,
+                'series_number' : int(seriesno[count]),
                 'series_total' : 400,
                 'attributes' :[ {
                     'trait_type' : 'Gender',
                     'value' : gender[count]
-                }
-                ],
+                }],
                 'collection' : {
                     'name' : 'HNG9Zuri NFT Collection',
                     'id' : id[count],
@@ -57,12 +47,6 @@ for row in csvreader:
                 "type": "description",
                 "value": "NFT Collection for zuri internship"}]
                 },
-<<<<<<< HEAD:csvtojson.py
-=======
-                "data": {
-                    "example_data":""
-                    }
->>>>>>> 9fb9c980fd463c7bb78d7978795e163227595104:HNG9Folder/csvtojson.py
     }  
     out = json.dumps(json_object, indent=4)
     jsonoutput = open(str(nftname[count])+'.json','w')
